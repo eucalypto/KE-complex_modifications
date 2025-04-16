@@ -16,7 +16,7 @@
                 }
             ],
             "from": {
-                "key_code": "backslash",
+                "key_code": "quote",
                 "modifiers": { "optional": ["any"] }
             },
             "to": [{ "key_code": "right_option" }],
@@ -880,7 +880,7 @@
                 }
             ],
             "from": {
-                "key_code": "quote",
+                "key_code": "backslash",
                 "modifiers": { "optional": ["shift", "caps_lock", "command", "left_option"] }
             },
             "to": [{ "key_code": "period" }],
