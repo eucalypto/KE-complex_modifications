@@ -3,14 +3,32 @@
     "enabled": false,
     "manipulators": [
         {
+            "description": "Use 'backslash' key for Mod3 layer key. This is the original rule for Layouts Neo (Neo2), NeoQwertz, and Bone. It uses input source ID.",
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
                         { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
                         { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
                         { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
                         { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                    ],
+                    "type": "input_source_if"
+                }
+            ],
+            "from": {
+                "key_code": "backslash",
+                "modifiers": { "optional": ["any"] }
+            },
+            "to": [{ "key_code": "right_option" }],
+            "type": "basic"
+        },
+        {
+            "description": "Use 'quote' key for Mod3 layer key. This is the extra rule for layouts Noted, Mine, and VOU. It uses input source ID.",
+            "conditions": [
+                {
+                    "input_sources": [
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((noted|mine|vou)\\)$" }
                     ],
                     "type": "input_source_if"
                 }
