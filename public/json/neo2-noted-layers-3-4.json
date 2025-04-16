@@ -24,11 +24,11 @@
             "type": "basic"
         },
         {
-            "description": "Use 'quote' key for Mod3 layer key. This is the extra rule for layouts Noted, Mine, and VOU. It uses input source ID.",
+            "description": "Use 'quote' key for Mod3 layer key. This is the extra rule for layouts Noted and Mine. It uses input source ID.",
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((noted|mine|vou)\\)$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((noted|mine)\\)$" }
                     ],
                     "type": "input_source_if"
                 }
