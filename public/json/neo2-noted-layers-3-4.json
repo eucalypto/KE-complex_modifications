@@ -8,10 +8,7 @@
                 {
                     "input_sources": [
                         { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 }
@@ -44,11 +41,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 }
@@ -64,11 +58,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 }
@@ -84,11 +75,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -119,11 +107,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -153,11 +138,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -193,11 +175,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -233,11 +212,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -258,11 +234,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -283,11 +256,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -308,11 +278,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -333,11 +300,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -358,11 +322,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -383,11 +344,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -408,11 +366,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -433,11 +388,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -458,11 +410,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -483,11 +432,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -508,11 +454,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -533,11 +476,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -558,11 +498,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -583,11 +520,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -608,11 +542,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -633,11 +564,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -658,11 +586,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -683,11 +608,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -708,11 +630,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -733,11 +652,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -758,11 +674,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -783,11 +696,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -808,11 +718,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -833,11 +740,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -858,11 +762,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -883,11 +784,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -908,11 +806,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -933,11 +828,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -958,11 +850,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -983,11 +872,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1008,11 +894,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1033,11 +916,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1058,11 +938,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1083,11 +960,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1108,11 +982,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1133,11 +1004,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1158,11 +1026,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1183,11 +1048,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1208,11 +1070,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1233,11 +1092,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1258,11 +1114,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1288,11 +1141,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1318,11 +1168,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1348,11 +1195,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1378,11 +1222,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1409,11 +1250,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1440,11 +1278,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1471,11 +1306,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1502,11 +1334,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1533,11 +1362,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1564,11 +1390,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1595,11 +1418,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1626,11 +1446,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1657,11 +1474,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1688,11 +1502,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1719,11 +1530,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1750,11 +1558,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1781,11 +1586,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1812,11 +1614,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1843,11 +1642,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1874,11 +1670,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1905,11 +1698,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
@@ -1936,11 +1726,8 @@
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele.keyboardlayout\\.neo.*$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeo2$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschBone$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschNeoQwertz$" },
-                        { "input_source_id": "^org\\.unknown\\.keylayout\\.DeutschADNW$" }
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
+                        { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
                 },
