@@ -796,7 +796,7 @@
                 }
             ],
             "from": {
-                "key_code": "backslash",
+                "key_code": "quote",
                 "modifiers": { "optional": ["shift", "caps_lock", "command", "left_option"] }
             },
             "to": [{ "key_code": "period" }],
