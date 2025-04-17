@@ -21,6 +21,34 @@
             "type": "basic"
         },
         {
+            "description": "backslash key rule for Noted + Mine. Here it's not a mod3 layer key, but a 'normal' key",
+            "conditions": [
+                {
+                    "input_sources": [
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((noted|mine)\\)$" }
+                    ],
+                    "type": "input_source_if"
+                },
+                {
+                    "name": "neo2_mod_4",
+                    "type": "variable_unless",
+                    "value": 0
+                }
+            ],
+            "from": { "key_code": "backslash" },
+            "to": [
+                {
+                    "key_code": "page_down",
+                    "modifiers": ["left_option", "left_shift"]
+                },
+                {
+                    "key_code": "backslash",
+                    "modifiers": ["left_shift"]
+                }
+            ],
+            "type": "basic"
+        },
+        {
             "description": "Use 'quote' key for Mod3 layer key. This is the extra rule for layouts Noted and Mine. It uses input source ID.",
             "conditions": [
                 {
@@ -781,10 +809,11 @@
             "type": "basic"
         },
         {
+            "description":"rule for neo, bone, neoqwertz to print '.' on layer mod4 (There's another rule for this key for Noted and Mine, since they use this key as mod3 layer switch)",
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz|noted|mine)\\)$" },
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
                         { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
@@ -803,10 +832,11 @@
             "type": "basic"
         },
         {
+            "description": "modification rule for semicolon for classic neo, bone, and neoQwertz",
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz|noted|mine)\\)$" },
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
                         { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
@@ -822,6 +852,34 @@
                 "modifiers": { "optional": ["shift", "caps_lock", "command", "left_option"] }
             },
             "to": [{ "key_code": "comma" }],
+            "type": "basic"
+        },
+        {
+            "description": "modification rule for semicolon for Noted. Like it is used for close_bracket",
+            "conditions": [
+                {
+                    "input_sources": [
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((noted|mine)\\)$" }
+                    ],
+                    "type": "input_source_if"
+                },
+                {
+                    "name": "neo2_mod_4",
+                    "type": "variable_unless",
+                    "value": 0
+                }
+            ],
+            "from": { "key_code": "semicolon" },
+            "to": [
+                {
+                    "key_code": "page_down",
+                    "modifiers": ["left_option", "left_shift"]
+                },
+                {
+                    "key_code": "semicolon",
+                    "modifiers": ["left_shift"]
+                }
+            ],
             "type": "basic"
         },
         {
@@ -1138,10 +1196,11 @@
             "type": "basic"
         },
         {
+            "description": "modification rule for slash for classic neo, bone, and neoqwertz",
             "conditions": [
                 {
                     "input_sources": [
-                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz|noted|mine)\\)$" },
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((bone|neo2|neoqwertz)\\)$" },
                         { "input_source_id": "^org\\.unknown\\.keylayout\\.Deutsch(Neo2|Bone|NeoQwertz|ADNW)$" }
                     ],
                     "type": "input_source_if"
@@ -1160,6 +1219,34 @@
                 {
                     "key_code": "slash",
                     "modifiers": ["right_option"]
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "description": "modification rule for slash for Noted. Like it is used for close_bracket",
+            "conditions": [
+                {
+                    "input_sources": [
+                        { "input_source_id": "^org\\.sil\\.ukelele\\.keyboardlayout\\.neo\\.deutsch\\((noted|mine)\\)$" }
+                    ],
+                    "type": "input_source_if"
+                },
+                {
+                    "name": "neo2_mod_4",
+                    "type": "variable_unless",
+                    "value": 0
+                }
+            ],
+            "from": { "key_code": "slash" },
+            "to": [
+                {
+                    "key_code": "page_down",
+                    "modifiers": ["left_option", "left_shift"]
+                },
+                {
+                    "key_code": "slash",
+                    "modifiers": ["left_shift"]
                 }
             ],
             "type": "basic"
