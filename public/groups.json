@@ -5,6 +5,10 @@
       "id": "os-functionality",
       "files": [
         {
+          "path": "json/mac_osx_keyboard_brightness.json",
+          "extra_description_path": "extra_descriptions/mac_osx_keyboard_brightness.html"
+        },
+        {
           "path": "json/SIGKILL_frontmost_application.json"
         },
         {
@@ -83,6 +87,10 @@
         {
           "path": "json/mouse_keys_mode_v4.json",
           "extra_description_path": "extra_descriptions/mouse_keys_mode_v4.json.html"
+        },
+        {
+          "path": "json/mouse_keys_mode_v4_tweaked.json",
+          "extra_description_path": "extra_descriptions/mouse_keys_mode_v4_tweaked.json.html"
         },
         {
           "path": "json/mouse_keys_full_xgwang_me.json",
@@ -704,6 +712,9 @@
         },
         {
           "path": "json/swap_cmd_option_unless_builtin.json"
+        },
+        {
+          "path": "json/swap_cmd_option_unless_apple.json"
         }
       ]
     },
@@ -922,6 +933,10 @@
           "extra_description_path": "extra_descriptions/vim_mode_plus_better_notifications.json.html"
         },
         {
+          "path": "json/vim_quick_mode_plus.json",
+          "extra_description_path": "extra_descriptions/vim_quick_mode_plus.json.html"
+        },
+        {
           "path": "json/vim_text_navigation.json"
         },
         {
@@ -951,6 +966,10 @@
         },
         {
           "path": "json/rk_windows-ified_custom_mappings.json"
+        },
+        {
+          "path": "json/hhkb_arrows_using_right_shift.json",
+          "extra_description_path": "extra_descriptions/hhkb_arrows_using_right_shift.json.html"
         }
       ]
     },
@@ -958,6 +977,9 @@
       "name": "Alternative Keyboard Layouts",
       "id": "alternative-keyboard-layouts",
       "files": [
+        {
+          "path": "json/windows-pc-colemak-jetbrains.json"
+        },
         {
           "path": "json/zweihs_arrow_keys.json"
         },
@@ -1057,6 +1079,9 @@
       "id": "international",
       "files": [
         {
+          "path": "json/japanese_naginata16.json"
+        },
+        {
           "path": "json/multi-layered-japanese.json"
         },
         {
@@ -1132,6 +1157,10 @@
           "path": "json/swap_yen_and_backslash_jis.json"
         },
         {
+          "path": "json/swissMacOs.json",
+          "extra_description_path": "extra_descriptions/swissMacOs.json.html"
+        },
+        {
           "path": "json/swiss_pc_shortcuts.json",
           "extra_description_path": "extra_descriptions/swiss_pc_shortcuts.json.html"
         },
@@ -1148,6 +1177,10 @@
         },
         {
           "path": "json/caps_lock_toggle_korean_english_include_parallels.json"
+        },
+        {
+          "path": "json/korean_won_to_backtick_with_shortcut_preserved.json",
+          "extra_description_path": "extra_descriptions/korean_won_to_backtick_with_shortcut_preserved.html"
         },
         {
           "path": "json/korean_won_to_backtick.json"
@@ -1227,6 +1260,9 @@
         },
         {
           "path": "json/us_intl_delayed_aumlaut.json"
+        },
+        {
+          "path": "json/Option+numbers_to_lithuanian_symbols.json"
         }
       ]
     },
@@ -1815,6 +1851,12 @@
       "id": "miscellaneous",
       "files": [
         {
+          "path": "json/disable_print_finder.json"
+        },
+        {
+          "path": "json/disable_mail_safari.json"
+        },
+        {
           "path": "json/block_one_handed_combos.json"
         },
         {
@@ -1909,6 +1951,14 @@
         {
           "path": "json/keychron_k6_useful_escape_caps_lock.json",
           "extra_description_path": "extra_descriptions/keychron_k6_useful_escape_caps_lock.json.html"
+        },
+        {
+          "path": "json/keychron-k6-spanish-accents.json",
+          "extra_description_path": "extra_descriptions/keychron-k6-spanish-accents.json.html"
+        },
+        {
+          "path": "json/keychron-k6-es-latam.json",
+          "extra_description_path": "extra_descriptions/keychron-k6-spanish-accents.json.html"
         }
       ]
     },
